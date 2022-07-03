@@ -16,6 +16,7 @@ const prodConfig = {
                 // marketing:`marketing@${domain}/marketing/remoteEntry.js`,
                 // marketing:`marketing@${domain}/marketing/remoteEntry.js`,
                 // marketing:`marketing@${domain}/marketing/remoteEntry.js`,
+                publicPath:'/container/latest/',
 
             },
             shared:packageJson.dependencies
